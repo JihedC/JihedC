@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Jihed's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihedC&count_private=true)
+![Jihed's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihedC&count_private=true&show_icons=true)
 
 
 <!--
