@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Jihed's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihedC&count_private=true&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihedC&hide_progress=true)](https://github.com/JihedC/github-readme-stats)
+![Jihed's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihedC&count_private=true&show_icons=true&theme=transparent) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihedC&hide_progress=true)](https://github.com/JihedC/github-readme-stats)
 
 
 <!--
