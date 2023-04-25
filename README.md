@@ -11,6 +11,7 @@ https://www.linkedin.com/in/jihed-chouaref/
 <br />
 <br />
 
+My profile overview: 
 
 ![Jihed's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihedC&count_private=true&show_icons=true&theme=transparent) 
 
