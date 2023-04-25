@@ -1,8 +1,15 @@
-### Hi there 👋
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
+
+### Hi there 👋 I am Jihed Chouaref
+https://www.linkedin.com/in/jihed-chouaref/
+<a href="https://www.linkedin.com/in/jihed-chouaref/">
+  <img align="left" alt="Jihed's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br />
+<br />
 
 
 ![Jihed's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihedC&count_private=true&show_icons=true&theme=transparent) 
