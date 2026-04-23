@@ -13,7 +13,7 @@ https://www.linkedin.com/in/jihed-chouaref/
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://github.com/JoykishanSharma?tab=repositories">
+  <a href="https://github.com/JihedC?tab=repositories">
     <img width="500" height="auto" align="right" alt="Jihed's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=JihedC&show_icons=true&theme=algolia&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
